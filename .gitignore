@@ -24,7 +24,7 @@ var/
 *.egg
 
 # Virtual environment
-venv/
+.venv/
 ENV/
 env/
 .venv/
